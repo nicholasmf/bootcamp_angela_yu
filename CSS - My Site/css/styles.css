@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+}
+
+.mid-container, .bot-container {
+  height: 200px;
+  width: 200px;
+}
+
+.mid-container {
+  background-color: red;
+}
+
+.bot-container {
+  background-color: blue;
+}
+
+.pro {
+  text-decoration: underline;
+}
